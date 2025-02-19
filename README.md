@@ -5,7 +5,7 @@ A re-upload of mittorn's [Emscripten](http://kripken.github.io/emscripten-site/)
 
 And now you can fork the code and make your own changes, without the hassle of downloading all the files using [wget](http://gnuwin32.sourceforge.net/packages/wget.htm)!
 
-### [Click here to launch Xash3D in your browser!](https://icrazyblaze.github.io/Xash3D-Emscripten/xash-intro.html)
+### [Click here to launch Xash3D in your browser!](https://code2344.github.io/Xash3D-Emscripten/xash-intro.html)
 
 # Requirements / recommended specs
 This app runs best in [Mozilla Firefox](https://www.mozilla.org/en-GB/firefox/).
